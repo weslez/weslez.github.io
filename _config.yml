@@ -14,11 +14,11 @@ markdown: kramdown
 title : World of Wesley!
 tagline: Oh WoW. Just WoooooW.
 author :
-  name : Name Lastname
-  email : blah@email.test
+  name : Wesley Ziegler
+  email : wesley.j.ziegler@gmail.com
   github : weslez
-  twitter : @_wjz
-  feedburner : feedname
+  twitter : _wjz
+  feedburner : n/a
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
